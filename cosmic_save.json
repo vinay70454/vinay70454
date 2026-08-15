@@ -1,0 +1,42 @@
+{
+  "high_score": 0,
+  "coins": 1,
+  "selected_ship": "interceptor",
+  "unlocked_ships": [
+    "interceptor"
+  ],
+  "upgrades": {
+    "interceptor": {
+      "fire_rate": 1,
+      "laser_power": 1,
+      "shield_capacity": 1,
+      "speed": 1
+    },
+    "vanguard": {
+      "fire_rate": 1,
+      "laser_power": 1,
+      "shield_capacity": 1,
+      "speed": 1
+    },
+    "dreadnought": {
+      "fire_rate": 1,
+      "laser_power": 1,
+      "shield_capacity": 1,
+      "speed": 1
+    }
+  },
+  "settings": {
+    "sound_enabled": true,
+    "music_enabled": true,
+    "control_mode": "touch",
+    "touch_offset_y": 60,
+    "screen_shake": true
+  },
+  "stats": {
+    "games_played": 0,
+    "enemies_destroyed": 0,
+    "bosses_defeated": 0,
+    "highest_wave": 0,
+    "total_coins_collected": 1
+  }
+}
